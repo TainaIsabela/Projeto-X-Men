@@ -1,3 +1,5 @@
-# Projeto x-men desenvolvido com o Canal Dev em Dobro
+# Projeto X-Men
 
-<img src="./src/img/xmen-gif" >
+Acesse pelo link: https://tainaisabela.github.io/Projeto-X-Men/
+
+<img src="./src/img/xmen.gif" >
